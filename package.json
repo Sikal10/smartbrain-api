@@ -16,10 +16,11 @@
     "express": "^4.17.1",
     "heroku": "^7.37.0",
     "knex": "^0.20.8",
-    "pg": "^7.18.1"
+    "pg": "^7.18.1",
+    "nodemon": "^2.0.2"
+
   },
   "devDependencies": {
-    "nodemon": "^2.0.2"
   },
   "description": ""
 }
